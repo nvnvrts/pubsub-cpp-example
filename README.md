@@ -10,6 +10,7 @@ How to test
 
 2. Connect to the pubsub gateway and send commands using telnet.
 > telnet localhost [gateway port]
+
 * Subscribe a user to the topic.
 <code>
 user sub topic
