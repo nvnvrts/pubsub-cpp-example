@@ -15,6 +15,7 @@ How to test
 <code>
 user sub topic
 </code>
+
 * Publish a message to the topic.
 <code>
 user pub topic message
