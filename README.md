@@ -1,7 +1,6 @@
 # pubsub-cpp-example
 
 How to test
-
 ===
 
 0. Run single or multiple pubsub servers.
