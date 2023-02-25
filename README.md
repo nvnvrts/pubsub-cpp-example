@@ -1,7 +1,9 @@
 # pubsub-cpp-example
 
 How to test
+
 ===
+
 0. Run single or multiple pubsub servers.
 > pubsubserver [listen port]
 
@@ -11,12 +13,12 @@ How to test
 2. Connect to the pubsub gateway and send commands using telnet.
 > telnet localhost [gateway port]
 
-* Subscribe a user to the topic.
+Subscribe a user to the topic.
 <code>
 user sub topic
 </code>
 
-* Publish a message to the topic.
+Publish a message to the topic.
 <code>
 user pub topic message
 </code>
